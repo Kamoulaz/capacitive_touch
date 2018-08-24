@@ -1,0 +1,3 @@
+[submodule "PCB-design"]
+	path = PCB-design
+	url = https://github.com/mkamel27/PCB-design
